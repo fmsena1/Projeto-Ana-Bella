@@ -5,3 +5,8 @@ font:16px arial,helvetica, sans-serif;
     width: 900px;
     
 }
+#menu {
+    background: #c5c5b2;
+    border: 1px solid red;
+    padding: 18px;
+}
